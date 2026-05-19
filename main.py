@@ -89,7 +89,7 @@ def get_available_sizes(page, url: str) -> list:
     Navigate to the product page and return all available (not sold-out) sizes.
     """
     try:
-        page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        page.goto(url, wait_until="domcontentloaded", timeout=21600000)
     except PWTimeout:
         log.error(f"Timed out loading: {url}")
         return []

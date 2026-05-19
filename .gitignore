@@ -1,0 +1,7 @@
+\config.json
+.venv/
+.env
+config.json
+__pycache__/
+*.log
+.mypy_cache/
