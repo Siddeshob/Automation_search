@@ -1,0 +1,5 @@
+[deploy]
+startCommand = "python main.py"
+
+[build]
+buildCommand = "pip install playwright requests && python -m playwright install chromium && python -m playwright install-deps chromium"

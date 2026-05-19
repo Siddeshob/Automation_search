@@ -158,9 +158,7 @@ def monitor_once(page):
                 )
                 send_telegram(msg)
                 alerted.add(key)
-                
                 log.info(f"✅ AVAILABLE — alert sent for {name} size {size}")
-                
             else:
                 log.info(f"Already alerted for {name} size {size}, skipping.")
         else:

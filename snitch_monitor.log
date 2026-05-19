@@ -182,3 +182,18 @@
 2026-05-20 01:58:01,256 [INFO] ✅ AVAILABLE — alert sent for white Polo T-Shirt size XL
 2026-05-20 01:58:01,257 [INFO] Sleeping 300s until next check...
 
+2026-05-20 02:46:44,464 [INFO] ==================================================
+2026-05-20 02:46:44,464 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 02:46:44,464 [INFO] Watching 2 product(s). Checking every 300s.
+2026-05-20 02:46:44,464 [INFO] ==================================================
+2026-05-20 02:46:45,637 [INFO] Telegram message sent.
+2026-05-20 02:46:46,003 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XL
+2026-05-20 02:46:47,362 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 02:46:48,448 [INFO] Telegram message sent.
+2026-05-20 02:46:48,448 [INFO] ✅ AVAILABLE — alert sent for 100% Cotton Regular Fit Polo T-Shirt size XL
+2026-05-20 02:46:48,449 [INFO] Checking: white Polo T-Shirt | Size: XL
+2026-05-20 02:46:48,996 [INFO] Available: ['XL', 'XXL']  |  Sold out: ['XS', 'S', 'M', 'L']
+2026-05-20 02:46:50,144 [INFO] Telegram message sent.
+2026-05-20 02:46:50,145 [INFO] ✅ AVAILABLE — alert sent for white Polo T-Shirt size XL
+2026-05-20 02:46:50,146 [INFO] Sleeping 300s until next check...
+
