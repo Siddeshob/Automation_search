@@ -1,0 +1,184 @@
+2026-05-20 00:56:49,287 [INFO] ==================================================
+2026-05-20 00:56:49,288 [INFO] Snitch Stock Monitor started
+2026-05-20 00:56:49,288 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 00:56:49,288 [INFO] ==================================================
+2026-05-20 00:56:51,138 [INFO] Telegram message sent.
+2026-05-20 00:56:51,139 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 00:56:51,553 [ERROR] Failed to fetch https://www.snitch.co.in/products/example-product-url: 404 Client Error: Not Found for url: https://www.snitch.co.in/products/example-product-url
+2026-05-20 00:56:51,554 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 00:56:51,555 [INFO] Sleeping 300s until next check...
+
+2026-05-20 00:58:03,065 [INFO] ==================================================
+2026-05-20 00:58:03,065 [INFO] Snitch Stock Monitor started
+2026-05-20 00:58:03,065 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 00:58:03,065 [INFO] ==================================================
+2026-05-20 00:58:04,253 [INFO] Telegram message sent.
+2026-05-20 00:58:04,254 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 00:58:04,608 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 00:58:04,608 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:03:04,608 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 01:03:05,024 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 01:03:05,024 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:08:49,462 [INFO] ==================================================
+2026-05-20 01:08:49,462 [INFO] Snitch Stock Monitor started
+2026-05-20 01:08:49,462 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:08:49,462 [INFO] ==================================================
+2026-05-20 01:08:50,410 [ERROR] Telegram send failed: 404 Client Error: Not Found for url: https://api.telegram.org/botYOUR_BOT_TOKEN_HERE/sendMessage
+2026-05-20 01:08:50,411 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 01:08:50,723 [ERROR] Failed to fetch https://www.snitch.co.in/products/example-product-url: 404 Client Error: Not Found for url: https://www.snitch.co.in/products/example-product-url
+2026-05-20 01:08:50,724 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 01:08:50,724 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:10:27,249 [INFO] ==================================================
+2026-05-20 01:10:27,249 [INFO] Snitch Stock Monitor started
+2026-05-20 01:10:27,249 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:10:27,249 [INFO] ==================================================
+2026-05-20 01:10:28,510 [INFO] Telegram message sent.
+2026-05-20 01:10:28,513 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 01:10:28,756 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 01:10:28,756 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:15:28,757 [INFO] Checking: Classic Polo - Navy | Size: M
+2026-05-20 01:15:29,084 [INFO] ❌ Not available — Classic Polo - Navy size M. (Available: none detected)
+2026-05-20 01:15:29,084 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:17:21,754 [INFO] ==================================================
+2026-05-20 01:17:21,754 [INFO] Snitch Stock Monitor started
+2026-05-20 01:17:21,754 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:17:21,754 [INFO] ==================================================
+2026-05-20 01:17:22,893 [INFO] Telegram message sent.
+2026-05-20 01:17:22,894 [INFO] Checking: Classic Polo - Navy | Size: XL
+2026-05-20 01:17:23,133 [INFO] ❌ Not available — Classic Polo - Navy size XL. (Available: none detected)
+2026-05-20 01:17:23,133 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:22:23,133 [INFO] Checking: Classic Polo - Navy | Size: XL
+2026-05-20 01:22:23,349 [INFO] ❌ Not available — Classic Polo - Navy size XL. (Available: none detected)
+2026-05-20 01:22:23,349 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:26:19,262 [INFO] ==================================================
+2026-05-20 01:26:19,262 [INFO] Snitch Stock Monitor started
+2026-05-20 01:26:19,262 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:26:19,262 [INFO] ==================================================
+2026-05-20 01:26:20,475 [INFO] Telegram message sent.
+2026-05-20 01:26:20,476 [INFO] Checking: Classic Polo - Navy | Size: XL
+2026-05-20 01:26:20,713 [INFO] ❌ Not available — Classic Polo - Navy size XL. (Available: none detected)
+2026-05-20 01:26:20,713 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:27:44,033 [INFO] ==================================================
+2026-05-20 01:27:44,033 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:27:44,033 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:27:44,033 [INFO] ==================================================
+2026-05-20 01:27:45,263 [INFO] Telegram message sent.
+2026-05-20 01:27:45,670 [INFO] Checking: Classic Polo - Navy | Size: XL
+2026-05-20 01:27:56,237 [WARNING] Could not detect any sizes — page structure may have changed.
+2026-05-20 01:27:56,237 [INFO] ❌ Not available — Classic Polo - Navy size XL. (Available: none detected)
+2026-05-20 01:27:56,237 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:28:53,954 [INFO] ==================================================
+2026-05-20 01:28:53,954 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:28:53,954 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:28:53,954 [INFO] ==================================================
+2026-05-20 01:28:55,096 [INFO] Telegram message sent.
+2026-05-20 01:28:55,437 [INFO] Checking: Classic Polo - Navy | Size: XXL
+2026-05-20 01:29:06,070 [WARNING] Could not detect any sizes — page structure may have changed.
+2026-05-20 01:29:06,070 [INFO] ❌ Not available — Classic Polo - Navy size XXL. (Available: none detected)
+2026-05-20 01:29:06,070 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:38:34,689 [INFO] ==================================================
+2026-05-20 01:38:34,690 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:38:34,690 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:38:34,690 [INFO] ==================================================
+2026-05-20 01:38:35,800 [INFO] Telegram message sent.
+2026-05-20 01:38:36,159 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XXL
+2026-05-20 01:38:46,769 [WARNING] Could not detect any sizes — page structure may have changed.
+2026-05-20 01:38:46,770 [INFO] ❌ Not available — 100% Cotton Regular Fit Polo T-Shirt size XXL. (Available: none detected)
+2026-05-20 01:38:46,770 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:39:47,228 [INFO] ==================================================
+2026-05-20 01:39:47,228 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:39:47,229 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:39:47,229 [INFO] ==================================================
+2026-05-20 01:39:48,402 [INFO] Telegram message sent.
+2026-05-20 01:39:48,757 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XXL
+2026-05-20 01:39:59,201 [WARNING] Could not detect any sizes — page structure may have changed.
+2026-05-20 01:39:59,201 [INFO] ❌ Not available — 100% Cotton Regular Fit Polo T-Shirt size XXL. (Available: none detected)
+2026-05-20 01:39:59,201 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:44:59,201 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XXL
+2026-05-20 01:45:09,850 [WARNING] Could not detect any sizes — page structure may have changed.
+2026-05-20 01:45:09,850 [INFO] ❌ Not available — 100% Cotton Regular Fit Polo T-Shirt size XXL. (Available: none detected)
+2026-05-20 01:45:09,850 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:49:10,280 [INFO] ==================================================
+2026-05-20 01:49:10,280 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:49:10,280 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:49:10,280 [INFO] ==================================================
+2026-05-20 01:49:11,417 [INFO] Telegram message sent.
+2026-05-20 01:49:11,765 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: L
+2026-05-20 01:49:13,262 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:49:14,329 [INFO] Telegram message sent.
+2026-05-20 01:49:14,330 [INFO] ✅ AVAILABLE — alert sent for 100% Cotton Regular Fit Polo T-Shirt size L
+2026-05-20 01:49:14,330 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:49:58,469 [INFO] ==================================================
+2026-05-20 01:49:58,469 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:49:58,469 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:49:58,469 [INFO] ==================================================
+2026-05-20 01:49:59,650 [INFO] Telegram message sent.
+2026-05-20 01:50:00,005 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: M
+2026-05-20 01:50:01,355 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:50:01,355 [INFO] ❌ Not available — 100% Cotton Regular Fit Polo T-Shirt size M. (Available: L, XL)
+2026-05-20 01:50:01,355 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:51:54,405 [INFO] ==================================================
+2026-05-20 01:51:54,405 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:51:54,405 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:51:54,405 [INFO] ==================================================
+2026-05-20 01:51:55,574 [INFO] Telegram message sent.
+2026-05-20 01:51:55,929 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XL
+2026-05-20 01:51:57,296 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:51:58,397 [INFO] Telegram message sent.
+2026-05-20 01:51:58,398 [INFO] ✅ AVAILABLE — alert sent for 100% Cotton Regular Fit Polo T-Shirt size XL
+2026-05-20 01:51:58,398 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:53:47,488 [INFO] ==================================================
+2026-05-20 01:53:47,489 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:53:47,489 [INFO] Watching 1 product(s). Checking every 300s.
+2026-05-20 01:53:47,489 [INFO] ==================================================
+2026-05-20 01:53:48,574 [INFO] Telegram message sent.
+2026-05-20 01:53:48,918 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XL
+2026-05-20 01:53:50,612 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:53:51,698 [INFO] Telegram message sent.
+2026-05-20 01:53:51,699 [INFO] ✅ AVAILABLE — alert sent for 100% Cotton Regular Fit Polo T-Shirt size XL
+2026-05-20 01:53:51,699 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:57:20,973 [INFO] ==================================================
+2026-05-20 01:57:20,974 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:57:20,974 [INFO] Watching 2 product(s). Checking every 300s.
+2026-05-20 01:57:20,974 [INFO] ==================================================
+2026-05-20 01:57:22,139 [INFO] Telegram message sent.
+2026-05-20 01:57:22,476 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: M
+2026-05-20 01:57:29,416 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:57:29,416 [INFO] ❌ Not available — 100% Cotton Regular Fit Polo T-Shirt size M. (Available: L, XL)
+2026-05-20 01:57:29,416 [INFO] Checking: white Polo T-Shirt | Size: M
+2026-05-20 01:57:29,950 [INFO] Available: ['XL', 'XXL']  |  Sold out: ['XS', 'S', 'M', 'L']
+2026-05-20 01:57:29,950 [INFO] ❌ Not available — white Polo T-Shirt size M. (Available: XL, XXL)
+2026-05-20 01:57:29,950 [INFO] Sleeping 300s until next check...
+
+2026-05-20 01:57:55,344 [INFO] ==================================================
+2026-05-20 01:57:55,344 [INFO] Snitch Stock Monitor started (browser mode)
+2026-05-20 01:57:55,344 [INFO] Watching 2 product(s). Checking every 300s.
+2026-05-20 01:57:55,344 [INFO] ==================================================
+2026-05-20 01:57:56,545 [INFO] Telegram message sent.
+2026-05-20 01:57:56,908 [INFO] Checking: 100% Cotton Regular Fit Polo T-Shirt | Size: XL
+2026-05-20 01:57:58,484 [INFO] Available: ['L', 'XL']  |  Sold out: ['XS', 'S', 'M', 'XXL']
+2026-05-20 01:57:59,618 [INFO] Telegram message sent.
+2026-05-20 01:57:59,619 [INFO] ✅ AVAILABLE — alert sent for 100% Cotton Regular Fit Polo T-Shirt size XL
+2026-05-20 01:57:59,620 [INFO] Checking: white Polo T-Shirt | Size: XL
+2026-05-20 01:58:00,126 [INFO] Available: ['XL', 'XXL']  |  Sold out: ['XS', 'S', 'M', 'L']
+2026-05-20 01:58:01,255 [INFO] Telegram message sent.
+2026-05-20 01:58:01,256 [INFO] ✅ AVAILABLE — alert sent for white Polo T-Shirt size XL
+2026-05-20 01:58:01,257 [INFO] Sleeping 300s until next check...
+
